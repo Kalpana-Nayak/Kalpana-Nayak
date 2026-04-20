@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kalpana-Nayak
+- 👋 Hi, I’m Kalpana 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me kalpananayak.11.33@gmail.com

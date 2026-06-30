@@ -143,16 +143,6 @@ Python • Machine Learning • React
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kalpana-Nayak&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
